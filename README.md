@@ -1,1 +1,1 @@
-# netflix-models
+# streaming system design (netflix)
